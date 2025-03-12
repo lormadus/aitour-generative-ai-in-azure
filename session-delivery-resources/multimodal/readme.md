@@ -24,6 +24,15 @@ Create a tagline and short description for this rental home advertisement.
 - If you have information about the location of the images, use that information in the description
 ```
 
+```
+이 임대 주택 광고에 대한 태그라인과 간단한 설명을 만드세요.
+- 첫 번째 사진은 집에서 찍은 것입니다
+- 다른 사진들은 근처에서 찍은 것입니다
+- 설명에서는 집의 특징을 사용하여 광고를 더 매력적으로 만듭니다. 
+- 이미지에 보이지 않는 기능에 대해 이야기하지 마세요.
+- 이미지 위치에 대한 정보가 있는 경우 설명에 있는 해당 정보를 사용하세요
+```
+
 Discuss the prompt and the outputs.
 
 
